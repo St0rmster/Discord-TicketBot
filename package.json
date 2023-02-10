@@ -1,0 +1,19 @@
+{
+    "name": "dt-trading-bot",
+    "version": "1.0.0",
+    "description": "a ticket bot using modals",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "ticket",
+      "bot"
+    ],
+    "author": "St0rmster",
+    "license": "ISC",
+    "dependencies": {
+      "discord.js": "^13.7.0"
+    }
+  }
+  
